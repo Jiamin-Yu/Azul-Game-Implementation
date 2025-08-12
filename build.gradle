@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+    id 'checkstyle'
+    id 'com.github.spotbugs' version '5.0.9'
+}
+
+allprojects {
+
+    version '0.0.4'
+
+    group 'de.lmu.ifi.sosylab'
+
+    apply plugin: 'java'
+    apply plugin: 'checkstyle'
+    apply plugin: 'com.github.spotbugs'
+
+    sourceCompatibility = 17
+    targetCompatibility = 17
+
+    dependencies {
+        testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+        testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+        implementation 'org.json:json:20220320'
+    }
+
+    test {
+        useJUnitPlatform()
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    spotbugs {
+        effort = 'max'
+        excludeFilter = rootProject.file('config/spotbugs/spotbugs-exclude.xml')
+    }
+
+    checkstyle {
+        toolVersion '10.3.1'
+        ignoreFailures = false
+        maxWarnings = 0
+    }
+}
