@@ -1,0 +1,20 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'de.lmu.ifi.sosylab.server.GameServer'
+}
+
+dependencies {
+    implementation project(':shared')
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'de.lmu.ifi.sosylab.server.GameServer'
+    }
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}

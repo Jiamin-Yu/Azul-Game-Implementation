@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3.1">
+<file name="/Users/jiaminyu/Desktop/team14/server/src/main/java/de/lmu/ifi/sosylab/server/GameRoom.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/server/src/main/java/de/lmu/ifi/sosylab/server/GameServer.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/server/src/main/java/de/lmu/ifi/sosylab/server/Phase.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/server/src/main/java/de/lmu/ifi/sosylab/server/ServerNetworkConnection.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/server/src/main/java/de/lmu/ifi/sosylab/server/Turn.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/server/src/main/java/de/lmu/ifi/sosylab/server/User.java">
+</file>
+</checkstyle>
