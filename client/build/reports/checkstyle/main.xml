@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3.1">
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/GameClient.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/controller/GameController.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/Bag.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/ClientNetworkConnection.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/FactoryDisplay.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/GameClientModel.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/GamePlayers.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/PlayerBoard.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/Tiles.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/WallTile.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/FactoryDisplaysChangeEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/FloorLineChangeEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/GameEndEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/GameEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/GameTableChangeEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/PatternLinesChangeEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/PlaceTilesFailEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/PlayerTurnFinishedEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/StartGameEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/StartNextRoundEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/model/events/WallChangeEvent.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/GameEndPanel.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/GameFrame.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/GamePanel.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/GameTable.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/GamemodeSelectionPanel.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/HotseatStartPanel.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/LoginPanel.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/ViewUtils.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/playboard/FactoryDisplayView.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/playboard/FloorLine.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/playboard/PatternLines.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/playboard/PlayerBoardView.java">
+</file>
+<file name="/Users/jiaminyu/Desktop/team14/client/src/main/java/de/lmu/ifi/sosylab/client/view/playboard/Wall.java">
+</file>
+</checkstyle>
