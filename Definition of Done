@@ -1,0 +1,9 @@
+1. Pushed code is reviewed by at least one person
+2. Updated changelog
+3. Unit test for game logic available
+4. Game logic corresponds to Azul
+5. Javadoc presented for public methods (except for getters and setters)
+6. Network protocols are all similar (consistent, written in the same way)
+7. Each implemented feature is tested manually
+8. Code conforms to the google-style guide
+9. Etwas

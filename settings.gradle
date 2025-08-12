@@ -1,0 +1,5 @@
+rootProject.name = 'Team14-Azul'
+include 'client'
+include 'shared'
+include 'server'
+
