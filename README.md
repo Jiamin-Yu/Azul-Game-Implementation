@@ -1,6 +1,6 @@
 # Azul-Game-Implementation
 Implement an online game 'Azul' with hotseat mode and local-player mode.
 
-Game State
-Game Player
+Game State,
+Game Player,
 Chatroom
